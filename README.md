@@ -21,7 +21,7 @@
 </head>
 	<body>
 		<p><script src="https://6sa.eu/?token=9af01a5ce45b0e9e620c469889936ee9"></script></p>
-              <script id="https://whos.amung.us/pingjs/?k = _wau || []; _wau.push(["classic", "m0ntilla02", "quy"]);</script><script async src="//waust.at/c.js"></script>
+             
                 <script>
 	</body>
 </html>
